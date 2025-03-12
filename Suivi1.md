@@ -7,22 +7,39 @@
 
 ## Tâches complétées, exemples du résultat  
 **Maquette site** DONE 
+
 **Prototype : Base de données** DONE 
+
 **Prototype : Backend PHP ou python (setup)**
+
 **Prototype : Connection BD au backend** DONE 
+
 **Prototype : Site web (bouton seulement)** DONE 
+
 **Menu du site** DONE 
+
 **Page Accueil : Présentation boutique, images** 
+
 **Bas de page** DONE 
+
 **Page personnalisation : articles à choisir, ouvre sous-page** DONE 
+
 **Prototype canvas 3D**
+
 **Sous-page personnalisation : L'utilitaire de personnalisation** DONE
+
 **Page de connection (Front-back)** DONE
+
 **Page panier : Afficher liste articles avec prix et quantité : Total;** 
+
 **Méthodes de paiement** 
+
 **Validation panier;** 
+
 **Gestion quantité commande et retirer un item**
+
 **Recherche concurent pour option unique**
+
 **Cinématique à l'ouverture du site (Accueil)** DONE
 
 
