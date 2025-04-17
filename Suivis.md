@@ -37,35 +37,71 @@
 
 
 ### ✅ Tâches accomplies :
-<!-- Liste des tâches accomplies ici si disponible -->
+| Tâche                                                                                               | Temps | Réel | Complété | Responsable           | Raisons / Notes                       |
+|-----------------------------------------------------------------------------------------------------|-------|------|----------|------------------------|----------------------------------------|
+| Maquette site                                                                                       | 0     | -    | ✅        | -                      | -                                      |
+| Prototype : Base de données                                                                         | 1     | 1    | ✅        | Derek                  | -                                      |
+| Backend PHP ou Python (setup)                                                                       | 1     | 2    | ✅        | Taha, Badr             | -                                      |
+| Connexion BD au backend                                                                             | 3     | -    | ✅        | Taha, Badr             | Voir backend                           |
+| Site web (bouton seulement)                                                                         | 1     | 1    | ✅        | Taha                   | -                                      |
+| Connexion bouton au backend                                                                         | 3     | -    | ✅        | Taha                   | Voir backend                           |
+| Menu du site                                                                                        | 1     | 1    | ✅        | Badr                   | -                                      |
+| Page d’accueil : Présentation boutique, images                                                      | 1     | 1    | ✅        | Badr                   | -                                      |
+| Bas de page                                                                                         | 1     | 1    | ✅        | Badr                   | -                                      |
+| Page personnalisation : articles à choisir, ouvre sous-page                                         | 1     | 1    | ✅        | Badr                   | -                                      |
+| Prototype canvas 3D                                                                                 | 16    | 6    | ✅        | Taha, Badr, Derek      | Recherche                              |
+| Sous-page personnalisation : L'utilitaire de personnalisation                                       | 4     | 4    | ✅        | Taha, Derek            | Visuel                                 |
+| Page de connexion (Front-back)                                                                      | 2     | 2    | ✅        | Badr, Taha             | -                                      |
+| Page panier : Affichage, total, paiement, validation, gestion des quantités                         | 4     | 4    | ✅        | Derek                  | Amélioration méthode de paiement       |
+| Recherche concurrent pour option unique                                                             | 8     | 4    | ✅        | Tous                   | En cours                               |
+| Cinématique à l’ouverture du site                                                                    | 4     | 1    | ✅        | Badr                   | Prototype OK; reste à inclure image    |
+
 
 ---
 
 ## 📦 Livrable 2
 
 ### 🔧 Tâches :
-- Finalisation de la cinématique d’accueil  
-- Optimisation de la base de données  
-- Amélioration des images / design plus dynamique  
-- Lecture et réaction des utilisateurs  
-- Prototype canvas 3D  
-- Intégration Drag and Drop du logo  
-- Recherche concurrentielle
+### 📊 Tableau des Tâches – Livrable 2
+| Tâche                                                        | Temps |
+|---------------------------------------------------------------|-------|
+| Finaliser cinématique accueil                                 | 1     |
+| Base de données optimisation                                  | 3     |
+| Image amélioration design des articles plus dynamique         | 2     |
+| Lire et réagir                                                | 4     |
+| Prototype canvas 3D                                           | 16    |
+| Drag and drop Logo                                            | 5     |
+| Recherche concurrent                                          | 4     |
+| **Total général**                                             | **35** |
+
 
 ### ✅ Tâches accomplies :
-<!-- Liste des tâches accomplies ici si disponible -->
+| Tâche                                                   | Temps | Réel | Complété | Responsable         | Raisons / Notes                    |
+|----------------------------------------------------------|-------|------|----------|----------------------|-------------------------------------|
+| Finaliser cinématique accueil                            | 1     | 1    | ✅        | Badr                 | -                                   |
+| Base de données optimisation                             | 3     | 3    | ✅        | Derek                | -                                   |
+| Image amélioration design des articles                   | 2     | 2    | ✅        | Taha                 | -                                   |
+| Lire et réagir                                           | 4     | 4    | ✅        | Taha, Badr           | -                                   |
+| Prototype canvas 3D                                      | 16    | 15   | ❌        | Derek, Taha, Badr    | Optimisation, fonctionnement correct |
+| Drag and drop Logo                                       | 5     | 5    | ✅        | Derek, Taha          | -                                   |
+| Recherche concurrent                                      | 4     | 6    | ✅        | Derek, Taha, Badr    | -                                   |
+
 
 ---
 
 ## 📦 Livrable 3
 
 ### 🔧 Tâches :
-- Prototype canvas 3D  
-- Ajout d’un panier fonctionnel (ajouter, retirer, totaliser les prix)  
-- Création d’un système de gestion des stocks en temps réel  
-- Affichage d’une galerie de vêtements  
-- Animations simples au survol des boutons  
-- Recherche d’innovations et optimisations
+### 📊 Tableau des Tâches – Livrable 3
+| Tâche                                                                 | Temps |
+|------------------------------------------------------------------------|-------|
+| Prototype canvas 3D                                                    | 16    |
+| Ajout d’un panier fonctionnel (ajouter, retirer, totaliser les prix)  | 5     |
+| Création d’un système de gestion des stocks en temps réel              | 12    |
+| Affichage basique d’une galerie de vêtements                          | 4     |
+| Utiliser des animations simples au survol des boutons                 | 2     |
+| Recherche des innovations et optimisations                            | 5     |
+| **Total général**                                                     | **44** |
 
 ### ✅ Tâches accomplies :
 <!-- Liste des tâches accomplies ici si disponible -->
