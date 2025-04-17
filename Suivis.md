@@ -6,7 +6,7 @@
 **Membres de l’équipe :** [Taha Othmane Karmouche], [Badr Mellouki], [Derek Lopez Oria]
 
 ## Livrable 1 
-** Tâches :
+**Tâches :
 -
 -
 
