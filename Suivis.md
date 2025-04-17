@@ -21,7 +21,8 @@
 - 1 Prototype canvas 3D 16
 - 1 Sous-page personnalisation : L'utilitaire de personnalisation 4
 - 1 Page de connection (Front-back) 2
-- 1 Page panier : Afficher liste articles avec prix et quantité : Total;
+- 1 Page panier :
+- Afficher liste articles avec prix et quantité : Total;
   Méthodes de paiement;
   Validation panier;
   Gestion quantité commande et retirer un item; 4
