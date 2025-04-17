@@ -131,7 +131,7 @@ Pourquoi ?
 - 
 
 ## Preparation prochaine livraison 
-
+-
 
 ## Objectifs atteints 
 - Nous avons réussi à avoir une bonne communication au sein de l'équipe et à avancer beaucoup dans le projet, notre plus grand défi étant le prototype de toile qui est en cours de développement du côté de la recherche, mais nous avons atteint en grande partie les objectifs demandés. 
