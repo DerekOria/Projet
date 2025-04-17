@@ -13,27 +13,28 @@
 ## 📦 Livrable 1
 
 ### 🔧 Tâches :
-- Maquette du site  
-- Prototype : Base de données (vide)  
-- Prototype : Backend (PHP ou Python - setup)  
-- Prototype : Connexion base de données <-> backend  
-- Prototype : Site web (boutons seulement)  
-- Prototype : Connexion bouton au backend  
-- Menu du site  
-- Page d’accueil : présentation de la boutique, images  
-- Bas de page  
-- Page de personnalisation : choix d’articles, ouverture de sous-page  
-- Prototype canvas 3D  
-- Sous-page de personnalisation : utilitaire de personnalisation  
-- Page de connexion (Front + Back)  
-- Page panier :
-  - Affichage des articles avec prix et quantités
-  - Total général
-  - Méthodes de paiement
-  - Validation du panier
-  - Gestion des quantités / suppression d’un article  
-- Recherche de concurrents pour une option unique  
-- Cinématique à l’ouverture du site (Accueil)
+### 📊 Tableau des Tâches – Livrable 1
+
+| Livrable | Tâche                                                                                               | Temps |
+|----------|-----------------------------------------------------------------------------------------------------|-------|
+| 1        | Maquette du site                                                                                    | 0     |
+| 1        | Prototype : Base de données (vide)                                                                  | 1     |
+| 1        | Prototype : Backend PHP ou Python (setup)                                                           | 1     |
+| 1        | Prototype : Connexion BD au backend                                                                 | 3     |
+| 1        | Prototype : Site web (boutons seulement)                                                            | 1     |
+| 1        | Prototype : Connexion bouton au backend                                                             | 3     |
+| 1        | Menu du site                                                                                        | 1     |
+| 1        | Page d’accueil : Présentation boutique, images                                                      | 1     |
+| 1        | Bas de page                                                                                         | 1     |
+| 1        | Page personnalisation : articles à choisir, ouvre une sous-page                                     | 1     |
+| 1        | Prototype canvas 3D                                                                                 | 16    |
+| 1        | Sous-page personnalisation : Utilitaire de personnalisation                                         | 4     |
+| 1        | Page de connexion (Front + Back)                                                                    | 2     |
+| 1        | Page panier : Affichage des articles avec prix et quantité, total, méthodes de paiement, validation, gestion des quantités, retrait d’items | 4     |
+| 1B       | Recherche concurrente pour option unique                                                            | 8     |
+| 1B       | Cinématique à l'ouverture du site (Accueil)                                                         | 4     |
+|          | **Total général**                                                                                   | **51** |
+
 
 ### ✅ Tâches accomplies :
 <!-- Liste des tâches accomplies ici si disponible -->
