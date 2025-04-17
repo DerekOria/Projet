@@ -1,59 +1,80 @@
-# Projet : Site Web de Shopping en Ligne
+# 🛍️ Projet : Site Web de Shopping en Ligne
 
-## Nom du projet et membres de l’équipe 
+## 👥 Nom du projet et membres de l’équipe
 
-**Nom du projet :** Urban Pulse  
-**Membres de l’équipe :** [Taha Othmane Karmouche], [Badr Mellouki], [Derek Lopez Oria]
+- **Nom du projet :** Urban Pulse  
+- **Membres de l’équipe :**  
+  - Taha Othmane Karmouche  
+  - Badr Mellouki  
+  - Derek Lopez Oria
 
-## Livrable 1 
-**Tâches :**
+---
 
-- 1 Maquette site 0 Étiquettes de lignes Somme de Temps
-- 1 Prototype : Base de données 1 (vide)
-- 1 Prototype : Backend PHP ou python (setup) 1 1 39
-- 1 Prototype : Connection BD au backend 3 1B 12
-- 1 Prototype : Site web (bouton seulement) 1 Total général 51
-- 1 Prototype : Connection bouton au backend 3
-- 1 Menu du site 1
-- 1 Page Accueil : Présentation boutique, images 1
-- 1 Bas de page 1
-- 1 Page personnalisation : articles à choisir, ouvre sous-page 1
-- 1 Prototype canvas 3D 16
-- 1 Sous-page personnalisation : L'utilitaire de personnalisation 4
-- 1 Page de connection (Front-back) 2
-- 1 Page panier :
-- Afficher liste articles avec prix et quantité : Total;
-  Méthodes de paiement;
-  Validation panier;
-  Gestion quantité commande et retirer un item; 4
-- 1B Recherche concurent pour option unique 8
-- 1B Cinématique à l'ouverture du site (Accueil) 4
+## 📦 Livrable 1
 
+### 🔧 Tâches :
+- Maquette du site  
+- Prototype : Base de données (vide)  
+- Prototype : Backend (PHP ou Python - setup)  
+- Prototype : Connexion base de données <-> backend  
+- Prototype : Site web (boutons seulement)  
+- Prototype : Connexion bouton au backend  
+- Menu du site  
+- Page d’accueil : présentation de la boutique, images  
+- Bas de page  
+- Page de personnalisation : choix d’articles, ouverture de sous-page  
+- Prototype canvas 3D  
+- Sous-page de personnalisation : utilitaire de personnalisation  
+- Page de connexion (Front + Back)  
+- Page panier :
+  - Affichage des articles avec prix et quantités
+  - Total général
+  - Méthodes de paiement
+  - Validation du panier
+  - Gestion des quantités / suppression d’un article  
+- Recherche de concurrents pour une option unique  
+- Cinématique à l’ouverture du site (Accueil)
 
-**Tâches accomplies**
+### ✅ Tâches accomplies :
+<!-- Liste des tâches accomplies ici si disponible -->
 
-## Livrable 2
-**Tâches :**
--
--
+---
 
-**Tâches accomplies**
+## 📦 Livrable 2
 
-## Livrable 3 
-**Tâches :**
--
--
+### 🔧 Tâches :
+- Finalisation de la cinématique d’accueil  
+- Optimisation de la base de données  
+- Amélioration des images / design plus dynamique  
+- Lecture et réaction des utilisateurs  
+- Prototype canvas 3D  
+- Intégration Drag and Drop du logo  
+- Recherche concurrentielle
 
-**Tâches accomplies** 
+### ✅ Tâches accomplies :
+<!-- Liste des tâches accomplies ici si disponible -->
 
+---
 
-## Livrable 4 
-**Tâches :**
--
--
+## 📦 Livrable 3
 
-**Tâches accomplies**
+### 🔧 Tâches :
+- Prototype canvas 3D  
+- Ajout d’un panier fonctionnel (ajouter, retirer, totaliser les prix)  
+- Création d’un système de gestion des stocks en temps réel  
+- Affichage d’une galerie de vêtements  
+- Animations simples au survol des boutons  
+- Recherche d’innovations et optimisations
 
+### ✅ Tâches accomplies :
+<!-- Liste des tâches accomplies ici si disponible -->
 
+---
 
+## 📦 Livrable 4
 
+### 🔧 Tâches :
+- À venir...
+
+### ✅ Tâches accomplies :
+- À venir...
