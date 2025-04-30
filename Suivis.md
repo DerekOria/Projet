@@ -120,7 +120,27 @@
 ## 📦 Livrable 4
 
 ### 🔧 Tâches :
-- À venir...
+📊 Tableau des Tâches – Livrable 4
+| Tâche                                                                 | Temps |
+|------------------------------------------------------------------------|-------|
+| Amélioration du prototype canvas 3D                                   | 10    |
+| Création et optimisation d’une rulette pour les prix                  | 6     |
+| Utilisation du service d’hébergement (host)                           | 3     |
+| Gestion des coins (crédits utilisateurs)                              | 5     |
+| Connexion du prototype canvas 3D avec ses fonctionnalités interactives | 4     |
+| Ajout de musique pour la rulette                                      | 2     |
+| Design de vêtements en 3D                                             | 4     |
 
 ### ✅ Tâches accomplies :
-- À venir...
+
+| Tâche                                                                 | Temps | Réel | Complété | Responsable | Raisons / Notes                                           |
+|------------------------------------------------------------------------|-------|------|----------|-------------|------------------------------------------------------------|
+| Amélioration du prototype canvas 3D                                   | 15    | 15   | ✅        | Derek       | Optimisation du rendu, fluidité améliorée                 |
+| Connexion du prototype canvas 3D avec ses fonctionnalités interactives | 6    | 6    | ✅        | Derek       | Lien entre éléments du canvas et actions (click, drag…)   |
+| Design de vêtements en 3D                                             | 4     | 4    | ✅        | Derek       | Création de nouveaux modèles personnalisables             |
+| Création et optimisation d’une rulette pour les prix                  | 6     | 6    | ✅        | Taha        | Fonctionnement fluide, logique de tirage aléatoire        |
+| Ajout de musique pour la rulette                                      | 2     | 2    | ✅        | Taha        | Intégration d’un fichier audio déclenché par l’événement  |
+| Utilisation du service d’hébergement (host)                           | 4     | 4    | ✅        | Taha        | Déploiement du site et test des accès                     |
+| Gestion des coins (crédits utilisateurs)                              | 5     | 5    | ✅        | Taha        | Ajout/soustraction de coins selon interactions            |
+
+
