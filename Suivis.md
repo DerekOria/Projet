@@ -104,9 +104,18 @@
 | **Total général**                                                     | **44** |
 
 ### ✅ Tâches accomplies :
-<!-- Liste des tâches accomplies ici si disponible -->
 
----
+| Tâche                                                            | Temps | Réel | Complété | Responsable           | Raisons / Notes                                         |
+|------------------------------------------------------------------|-------|------|----------|------------------------|----------------------------------------------------------|
+| Prototype canvas 3D                                              | 16    | 16   | ✅        | Derek, Taha, Badr      | Optimisation + intégration avec Fabric.js               |
+| Ajout d’un panier fonctionnel (ajouter, retirer, totaliser les prix) | 5     | 5    | ✅        | Taha                   | Ajout dynamique et récapitulatif des prix               |
+| Création d’un système de gestion des stocks en temps réel       | 12    | 12   | ✅        | Badr                   | Connexion base de données + MAJ en temps réel           |
+| Affichage basique d’une galerie de vêtements                    | 4     | 3    | ✅        | Derek                  | Intégration d’une grille responsive                     |
+| Utiliser des animations simples au survol des boutons           | 2     | 2    | ✅        | Taha                   | Animations CSS sur les boutons principaux               |
+| Recherche des innovations et optimisations                      | 5     | 6    | ✅        | Derek, Badr            | Optimisation des chargements et interactions            |
+
+**Total général :** 44h prévues / 44h réelles  
+
 
 ## 📦 Livrable 4
 
