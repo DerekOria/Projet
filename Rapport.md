@@ -14,9 +14,8 @@
 | 2025-03-12  | 2025-03-19  | Prototype canvas 3D – Recherche initiale (Livrable 1)                                     |
 | 2025-03-12  | 2025-03-19  | Page panier : Affichage, total, paiement, validation, gestion des quantités              |
 | 2025-03-26  | 2025-04-02  | Optimisation de la base de données (Livrable 2)                                          |
-| 2025-03-26  | 2025-04-02  | Drag and drop Logo – intégration                                                         |
 | 2025-03-26  | 2025-04-02  | Recherche concurrente – Livrable 2                                                       |
-| 2025-04-09  | 2025-04-16  | Prototype canvas 3D – Optimisation + intégration Fabric.js (Livrable 3)                 |
+| 2025-04-09  | 2025-04-16  | Prototype canvas 3D – Optimisation + intégration Fabric.js (Livrable 3)                  |
 | 2025-04-09  | 2025-04-16  | Affichage d’une galerie de vêtements – Intégration responsive                            |
 | 2025-04-09  | 2025-04-16  | Recherche des innovations et optimisations (Livrable 3)                                  |
 | 2025-04-23  | 2025-04-30  | Amélioration du prototype canvas 3D – Fluidité, rendu (Livrable 4)                       |
@@ -37,7 +36,6 @@
 | Page panier : Affichage, total, paiement, validation                  | Derek                | Complété                                 |
 | Menu du site et pages (accueil, bas de page, personnalisation)       | Badr                 | Complété                                 |
 | Page de connexion (front-end + back-end)                              | Badr, Taha           | Complété                                 |
-| Drag and drop du logo sur le canvas                                   | Derek, Taha          | Complété                                 |
 | Système de gestion des stocks en temps réel                           | Taha                 | Complété                                 |
 | Recherche concurrente pour options uniques                            | Tous                 | Complété                                 |
 | Intégration musique dans la rulette                                   | Taha                 | Complété                                 |
@@ -53,13 +51,18 @@
 
 #### b. Difficultés et modifications
 
-- Difficulté 1 : [Décris le problème, son impact et comment il a été géré]
-- Difficulté 2 : ...
+- Difficulté 1 : Mon principal problème était de savoir comment créer le prototype 3D, comment l'ajouter au projet (site web), comment le faire fonctionner. Ce problème nous a généré beaucoup de problèmes et de maux de tête, à la fin, je peux dire que finalement, j'ai réussi à trouver une bonne façon de le faire, j'ai utilisé thread.js, j'ai implémenté un modèle 3d déjà fait en .gltf, puis j'ai utilisé plusieurs outils que thread offre, et avec cela, j'ai pu commencer à travailler sur la modélisation 3d.
+- Difficulté 2 : Grâce à l'IA, j'ai pu créer une galerie de mes propres produits de la marque « URBAN PULSE », car au début, nous pensions développer nos propres produits, nous pensions utiliser Renderer ou AutoCad pour pouvoir faire nos propres dessins, mais c'était très compliqué et cela prenait beaucoup de temps.
+- Difficulté 3 : Pour les filtres et les changements de la personnalisation 3D, j'ai eu des problèmes pour rendre réaliste la modification du texte et du logo, c'est à dire pouvoir le déplacer en x,y,z, et pouvoir le « coller » au produit, ce que j'ai fait a été d'implémenter l'option de déplacer le texte et le logo dans toutes les directions, donc j'ai résolu le problème.
+
 
 #### c. Utilisation des outils
 
-- **Outils utilisés :** Trello, GitHub, etc.
-- **Utilité :** [Explique comment ils t’ont aidé]
+- **Outils utilisés :** ChatGPT, StackOverflow, Youtube.
+- **Utilité :** ChatGPT nous a littéralement aidés à résoudre un grand nombre de nos problèmes, ainsi qu'à les reconnaître. Parfois, nous avions des problèmes dans le code que nous ne savions pas comment interpréter, sans parler de le comprendre, et ChatGPT nous a donc principalement aidés dans ce domaine, ainsi que dans l'utilisation de certains outils.
+Avec StackOverflow, nous avons cherché des idées et des moyens de corriger certains bogues dans notre code.
+Youtube m'a beaucoup aidé à réaliser la personnalisation 3D, ainsi qu'à apprendre de nouveaux sujets théoriques et pratiques pour pouvoir les utiliser et les comprendre.
+
 - **Améliorations :** [Comment les utiliser plus efficacement à l’avenir]
 
 ---
