@@ -92,11 +92,11 @@
 
 | Critère                                                                                       | Note (0–4) | Justification             |
 |-----------------------------------------------------------------------------------------------|------------|---------------------------|
-| Respect de la charge de travail assignée                                                      |            |                           |
-| Participation aux rencontres                                                                  |            |                           |
-| Respect des critères et normes de qualité                                                     |            |                           |
-| Participation aux discussions et à la résolution de problèmes                                 |            |                           |
-| Contribution globale au projet                                                                |            |                           |
+| Respect de la charge de travail assignée                                                      |    2       |  Il a fait une partie du travail, mais pas suffisamment pour apporter une contribution majeure.                         |
+| Participation aux rencontres                                                                  |    2       |  Il était présent à certaines réunions, mais pas à toutes, il participait à certaines tâches, mais en oubliait d'autres.                         |
+| Respect des critères et normes de qualité                                                     |    2       |  Je ne sais pas quoi répondre ici, je pense qu'il a respecté les règles dans ce qu'il a fait.                         |
+| Participation aux discussions et à la résolution de problèmes                                 |    2       |  Sa participation a été suffisante, mais il n'a pas été efficace.                         |
+| Contribution globale au projet                                                                |    2       |  Il a contribué un peu, mais pas assez pour mériter un 3 ou un 4                        |
 
 
 ## ✅ Section 4 – Conclusion
