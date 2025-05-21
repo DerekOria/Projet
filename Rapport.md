@@ -82,11 +82,11 @@
 
 | Critère                                                                                       | Note (0–4) | Justification             |
 |-----------------------------------------------------------------------------------------------|------------|---------------------------|
-| Respect de la charge de travail assignée                                                      |    4       |                           |
-| Participation aux rencontres                                                                  |    3       |                           |
-| Respect des critères et normes de qualité                                                     |    4       |                           |
-| Participation aux discussions et à la résolution de problèmes                                 |    3       |                           |
-| Contribution globale au projet                                                                |    4       |                           |
+| Respect de la charge de travail assignée                                                      |    4       |   Taha était toujours au courant de tout ce que nous avions à faire, de chaque tâche, de presque tous les problèmes qui se présentaient, nous nous soutenions mutuellement, il était un élément clé du projet.                        |
+| Participation aux rencontres                                                                  |    3       |   Parfois, il n'a pas pu être présent, mais en raison de son mode de vie, de son travail, de sa famille et de ses cours, il a été en mesure de faire des progrès lors de chaque réunion.                       |
+| Respect des critères et normes de qualité                                                     |    4       |   Il a respecté tous les points et tous les critères du projet, même plus que moi, je n'ai rien à signaler.                        |
+| Participation aux discussions et à la résolution de problèmes                                 |    3       |   Lors de chaque réunion, il parlait toujours et aidait beaucoup à résoudre les problèmes, il avait beaucoup d'idées créatives.                        |
+| Contribution globale au projet                                                                |    4       |    Sa contribution au travail a été vraiment importante, une partie essentielle du travail, il a vraiment apporté beaucoup d'idées, beaucoup de développement au projet.                       |
 
 #### Coéquipier : [Badr Mellouki]
 
