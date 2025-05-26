@@ -109,8 +109,18 @@ Youtube m'a beaucoup aidé à réaliser la personnalisation 3D, ainsi qu'à appr
 
 ### a. Écarts entre le projet prévu et le projet final
 
-- Écart 1 : ...
-- Écart 2 : ...
+- **Écart 1 : Intégration du système de paiement externe non réalisée**  
+  Bien que planifiée dès le départ (ex. : Stripe), cette fonctionnalité n’a pas pu être mise en place faute de temps et de complexité technique supplémentaire liée à la sécurité.
+
+- **Écart 2 : Absence de filtres avancés dans la galerie de vêtements**  
+  Les filtres par taille, couleur et prix étaient prévus pour améliorer l’expérience utilisateur, mais cette partie a été laissée de côté afin de prioriser la personnalisation 3D et les fonctionnalités de base.
+
+- **Écart 3 : Tableau de bord administrateur non développé**  
+  Le système de gestion interne des utilisateurs, commandes et produits était envisagé, mais n’a pas été entamé par manque de temps.
+
+- **Écart 4 : Manque de tests unitaires et d’automatisation**  
+  Le projet ne contient pas de suite de tests, bien que cela ait été prévu dans les bonnes pratiques de développement. L’équipe a choisi de tester manuellement les fonctionnalités clés pour gagner du temps.
+
 
 ### b. Résumé personnel
 
